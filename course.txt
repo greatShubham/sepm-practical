@@ -1,0 +1,4 @@
+Course: Computer Science
+Duration: 4 years
+Credits: 120
+Description: A comprehensive program covering programming, algorithms, and systems design.
