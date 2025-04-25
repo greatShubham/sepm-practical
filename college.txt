@@ -1,0 +1,4 @@
+Name: Greenfield University
+Location: Springfield
+Established: 1995
+Programs: Engineering, Arts, Science, Business
